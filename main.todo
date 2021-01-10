@@ -1,0 +1,4 @@
+- find the way to increase accurate 
+
+- change the return of face_detection into a list instead of generating new result image
+- split the i in face_detection by '.' to avoid final file name got 2 extensions
