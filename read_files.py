@@ -14,4 +14,4 @@ def fList():
     for i in filelist:
         fin.write(i)
         fin.write('\n')
-    return 
+    return filelist
